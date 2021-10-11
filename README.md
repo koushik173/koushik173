@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm koushik roy</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=koushik173&label=Profile%20views&color=0e75b6&style=flat" alt="koushik173" /> </p>
+<p align="left"> <img src="https://www.facebook.com/photo/?fbid=2521954921434040&set=a.1379575159005361" alt="koushik173" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koushik173" alt="koushik173" /></a> </p>
 
