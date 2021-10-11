@@ -1,11 +1,13 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm koushik roy</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koushik173&label=Profile%20views&color=0e75b6&style=flat" alt="koushik173" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koushik173" alt="koushik173" /></a> </p>
+
+- 🔭 I’m currently working on **Java Project**
+
+- 🌱 I’m currently learning **courses etc**
 
 - 📫 How to reach me **cse_2012020173@lus.ac.bd**
 
@@ -15,8 +17,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/koushik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="koushik" height="30" width="40" /></a>
+<a href="https://dev.to/koushik173" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="koushik173" height="30" width="40" /></a>
 <a href="https://twitter.com/koushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="koushik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/koushik roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="koushik roy" height="30" width="40" /></a>
+<a href="https://fb.com/koushik roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="koushik roy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/koushik roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="koushik roy" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kr20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kr20" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/kr20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="kr20" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/koushikroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="koushikroy" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/koushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="koushik" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
