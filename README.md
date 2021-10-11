@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm koushik roy</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="top"> <img src="https://user-images.githubusercontent.com/92144539/136776478-77582565-23a8-4e43-ab35-0e3a57fb80c5.gif" alt="koushik173" width="1000" height="250"/> </p>
+<p align="top"> <img src="https://user-images.githubusercontent.com/92144539/136777745-7f1a1c56-ec05-4746-bad0-71c568d09613.gif" alt="koushik173" width="1000" height="400"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koushik173" alt="koushik173" /></a> </p>
 
