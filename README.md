@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/koushik173" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="koushik173" height="30" width="40" /></a>
-<a href="https://twitter.com/koushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="koushik" height="30" width="40" /></a>
+<a href="https://twitter.com/Koushik11279262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="koushik" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/koushik-roy-855564123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="koushik roy" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100008586699961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="koushik roy" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC10xi-5rkvZvXFVPbpF7ylA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="koushik roy" height="30" width="40" /></a>
